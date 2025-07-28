@@ -1,2 +1,21 @@
 // Use this file to set SASS variables for @edx/paragon
 // See _variables.scss in https://github.com/openedx/paragon/blob/master/scss/core/ for reference
+
+// Use this file to set SASS variables for @edx/paragon
+// See _variables.scss in https://github.com/openedx/paragon/blob/master/scss/core/ for reference
+
+
+$brand-primary: #00BBF9;
+$brand-secondary: #d6ba02d8;
+$primary: #166d15;
+$brand: #1b6d15;
+$primary-light: #F2F7F8;
+$light-dark: #0f7d59;
+$text-color: #0c3913;
+$text-color-primary: #515661;
+$gray-700: #4b5563;
+$text-color-light: #515661;
+$light-theme-switch-bg-color: #819114;// for toggle theme button
+$page-color-transition: transparent .2s ease, color .2s ease;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
