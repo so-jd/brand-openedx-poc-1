@@ -67,4 +67,4 @@ a theme by the contents of [\_variables.scss (after line
 7)](https://github.com/openedx/paragon/blob/master/scss/core/_variables.scss#L7-L1046)
 file from the Paragon repository into this file.
 
-test
+test1
