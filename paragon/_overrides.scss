@@ -392,6 +392,9 @@ html {
         }
     }
 }
+.sidebar-column {
+    display: none !important;
+}
 @import "./header";
 @import "./footer";
 @import "./login";
